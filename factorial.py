@@ -22,4 +22,3 @@ x = int(input('enter no for fact\n>>>'))
 fac = facto(x)
 print('factorial of {} by recursion method is {}'.format(x, fac) )
 
-
