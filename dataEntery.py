@@ -20,11 +20,11 @@ x = int(input('enter {} for even and {} for odd'.format(1, 2)))
 if x == 1:
     print('printing the even candidates :')
     for i in evens:
-        print('roll no : {} and name : {}'.format(i, data[i]))
+        print('roll no : {} and name : {}'.format(i, data.get(i)))
 if x == 2:
     print('printing the even candidates :')
     for i in odds:
-        print('roll no : {} and name : {}'.format(i, data[i]))
+        print('roll no : {} and name : {}'.format(i, data.get(i)))
 else :
     print('wrong input')
 
