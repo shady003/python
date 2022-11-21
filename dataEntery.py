@@ -10,8 +10,21 @@ if password == 12345:
             name.append(input('Enter his name '))
 data = dict(zip(roll_no, name))
 # print(data)
-value = int(input('Enter roll_no to find name'))
-nam = input('Enter name to find roll_no')
-print(data.get(value))
-print(data.items(nam))
+# value = int(input('Enter roll_no to find name'))
+# nam = input('Enter name to find roll_no')
+# print(data.get(value))
+# print(data.items(nam))
+evens = list(filter(lambda a: a % 2 == 0, roll_no))
+odds = list(filter(lambda a: a % 2 != 0, roll_no))
+x = int(input('enter {} for even and {} for odd'.format(1, 2)))
+if x == 1:
+    print('printing the even candidates :')
+    for i in evens:
+        print('roll no : {} and name : {}'.format(i, data[i]))
+if x == 2:
+    print('printing the even candidates :')
+    for i in odds:
+        print('roll no : {} and name : {}'.format(i, data[i]))
+else :
+    print('wrong input')
 
