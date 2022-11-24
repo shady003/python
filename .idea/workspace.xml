@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfcd4d12-1038-4463-86ad-e1ecdf75310e" name="Changes" comment="decorator_add+2">
-      <change afterPath="$PROJECT_DIR$/OOPs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/speaialvar.py" afterDir="false" />
+    <list default="true" id="cfcd4d12-1038-4463-86ad-e1ecdf75310e" name="Changes" comment="spv">
+      <change beforePath="$PROJECT_DIR$/OOPs.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +46,8 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Python.speaialvar">
-    <configuration name="Anonymousfunc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.OOPs">
+    <configuration name="OOPs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,7 +59,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Anonymousfunc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.OOPs" />
         <item itemvalue="Python.speaialvar" />
         <item itemvalue="Python.decorator" />
         <item itemvalue="Python.dataEntery" />
         <item itemvalue="Python.oddevedata" />
-        <item itemvalue="Python.Anonymousfunc" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669284940133</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="spv">
+      <created>1669285771620</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1669285771620</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -308,7 +314,8 @@
     <MESSAGE value="added even and odd output to dataentery" />
     <MESSAGE value="decorator" />
     <MESSAGE value="decorator_add+2" />
-    <option name="LAST_COMMIT_MESSAGE" value="decorator_add+2" />
+    <MESSAGE value="spv" />
+    <option name="LAST_COMMIT_MESSAGE" value="spv" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
