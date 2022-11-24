@@ -1,12 +1,16 @@
 class Computer:
 
+    def __init__(self, cpu, ram):   # Constructor
+        self.cpu = cpu
+        self.ram = ram
+
     def config(self):
 
-        print('i5, 16gb, 1TB')
+        print(self.cpu, self.ram)
 
 
-com1 = Computer()
-com2 = Computer()
+com1 = Computer('i5', 6)
+com2 = Computer('Ryzon 5',16)
 Computer.config(com1)
 com2.config()
 
