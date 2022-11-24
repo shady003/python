@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfcd4d12-1038-4463-86ad-e1ecdf75310e" name="Changes" comment="spv">
+    <list default="true" id="cfcd4d12-1038-4463-86ad-e1ecdf75310e" name="Changes" comment="class and object">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOPs.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -286,7 +287,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669285771620</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="class and object">
+      <created>1669294848464</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1669294848464</updated>
+    </task>
+    <task id="LOCAL-00018" summary="class and object">
+      <created>1669294904432</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1669294904432</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -315,7 +330,8 @@
     <MESSAGE value="decorator" />
     <MESSAGE value="decorator_add+2" />
     <MESSAGE value="spv" />
-    <option name="LAST_COMMIT_MESSAGE" value="spv" />
+    <MESSAGE value="class and object" />
+    <option name="LAST_COMMIT_MESSAGE" value="class and object" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
