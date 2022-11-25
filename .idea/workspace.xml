@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfcd4d12-1038-4463-86ad-e1ecdf75310e" name="Changes" comment="innerClass">
-      <change afterPath="$PROJECT_DIR$/inheritence.py" afterDir="false" />
+    <list default="true" id="cfcd4d12-1038-4463-86ad-e1ecdf75310e" name="Changes" comment="inheritance">
+      <change afterPath="$PROJECT_DIR$/constructor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Python.inheritence">
+  <component name="RunManager" selected="Python.constructor">
     <configuration name="Inner Class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="decorator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="constructor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,7 +102,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/decorator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/constructor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.constructor" />
         <item itemvalue="Python.inheritence" />
         <item itemvalue="Python.Inner Class" />
         <item itemvalue="Python.OOPs" />
         <item itemvalue="Python.speaialvar" />
-        <item itemvalue="Python.decorator" />
       </list>
     </recent_temporary>
   </component>
@@ -336,7 +336,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669366349609</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="inheritance">
+      <created>1669366959121</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1669366959121</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -368,7 +375,8 @@
     <MESSAGE value="class and object" />
     <MESSAGE value="constructor" />
     <MESSAGE value="innerClass" />
-    <option name="LAST_COMMIT_MESSAGE" value="innerClass" />
+    <MESSAGE value="inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="inheritance" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
