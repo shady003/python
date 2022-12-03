@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfcd4d12-1038-4463-86ad-e1ecdf75310e" name="Changes" comment="Genrator">
-      <change afterPath="$PROJECT_DIR$/epectationHandling.py" afterDir="false" />
+    <list default="true" id="cfcd4d12-1038-4463-86ad-e1ecdf75310e" name="Changes" comment="Exception Handling">
+      <change afterPath="$PROJECT_DIR$/multiThread.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Python.epectationHandling">
+  <component name="RunManager" selected="Python.multiThread">
     <configuration name="Genrator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="operatorOverloading" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="multiThread" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,7 +144,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/operatorOverloading.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multiThread.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.multiThread" />
         <item itemvalue="Python.epectationHandling" />
         <item itemvalue="Python.Genrator" />
         <item itemvalue="Python.Iterator" />
         <item itemvalue="Python.abstractclass" />
-        <item itemvalue="Python.operatorOverloading" />
       </list>
     </recent_temporary>
   </component>
@@ -385,7 +385,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669709822056</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Exception Handling">
+      <created>1669710938625</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1669710938625</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -429,7 +436,8 @@
     <MESSAGE value="asbstratc Class" />
     <MESSAGE value="itrator" />
     <MESSAGE value="Genrator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Genrator" />
+    <MESSAGE value="Exception Handling" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exception Handling" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
