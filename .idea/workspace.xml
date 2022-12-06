@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfcd4d12-1038-4463-86ad-e1ecdf75310e" name="Changes" comment="connecting mysql with python">
-      <change afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
+    <list default="true" id="cfcd4d12-1038-4463-86ad-e1ecdf75310e" name="Changes" comment="server2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysqlconnect.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysqlconnect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -414,7 +413,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670091533849</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="server">
+      <created>1670316796999</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1670316796999</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -435,7 +441,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Array" />
     <MESSAGE value="keyworded variables" />
     <MESSAGE value="even odd project" />
     <MESSAGE value="fibnacci series" />
@@ -460,7 +465,8 @@
     <MESSAGE value="fileHandling saving and editing file" />
     <MESSAGE value="linearSearch" />
     <MESSAGE value="connecting mysql with python" />
-    <option name="LAST_COMMIT_MESSAGE" value="connecting mysql with python" />
+    <MESSAGE value="server" />
+    <option name="LAST_COMMIT_MESSAGE" value="server" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
